@@ -4,12 +4,19 @@ Developed a neural network from scratch using NumPy, implementing weight and bia
 Key Features:
 
 Initialization of Weights and Biases: Proper initialization techniques to ensure the network starts with suitable parameters.
+
 Forward Propagation: Calculation of activations and output through each layer of the network.
+
 Activation Functions: Implementation of commonly used activation functions like sigmoid, ReLU, and tanh.
+
 Backward Propagation: Computation of gradients to update the weights and biases using backpropagation and gradient descent.
+
 Loss Calculation: Implementation of loss functions such as Mean Squared Error (MSE) and Cross-Entropy Loss for evaluating the network's performance.
+
 Training Loop: Iterative process to train the network over multiple epochs, adjusting the weights and biases to minimize the loss.
+
 Evaluation: Methods to evaluate the network’s performance on training and test datasets.
+
 Technologies Used:
 
 Python
